@@ -58,7 +58,7 @@ $ bin/omnibus help
 
 ## Vagrant-based Virtualized Build Lab
 
-Every Omnibus project ships will a project-specific
+Every Omnibus project ships with a project-specific
 [Berksfile](http://berkshelf.com/) and [Vagrantfile](http://www.vagrantup.com/)
 that will allow you to build your projects on the following platforms:
 
